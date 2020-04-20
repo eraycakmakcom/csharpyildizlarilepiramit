@@ -1,0 +1,13 @@
+C:\Users\eray.eray\source\repos\yildiz\bin\Debug\netcoreapp3.1\yildiz.exe
+C:\Users\eray.eray\source\repos\yildiz\bin\Debug\netcoreapp3.1\yildiz.deps.json
+C:\Users\eray.eray\source\repos\yildiz\bin\Debug\netcoreapp3.1\yildiz.runtimeconfig.json
+C:\Users\eray.eray\source\repos\yildiz\bin\Debug\netcoreapp3.1\yildiz.runtimeconfig.dev.json
+C:\Users\eray.eray\source\repos\yildiz\bin\Debug\netcoreapp3.1\yildiz.dll
+C:\Users\eray.eray\source\repos\yildiz\bin\Debug\netcoreapp3.1\yildiz.pdb
+C:\Users\eray.eray\source\repos\yildiz\obj\Debug\netcoreapp3.1\yildiz.csprojAssemblyReference.cache
+C:\Users\eray.eray\source\repos\yildiz\obj\Debug\netcoreapp3.1\yildiz.csproj.CoreCompileInputs.cache
+C:\Users\eray.eray\source\repos\yildiz\obj\Debug\netcoreapp3.1\yildiz.AssemblyInfoInputs.cache
+C:\Users\eray.eray\source\repos\yildiz\obj\Debug\netcoreapp3.1\yildiz.AssemblyInfo.cs
+C:\Users\eray.eray\source\repos\yildiz\obj\Debug\netcoreapp3.1\yildiz.dll
+C:\Users\eray.eray\source\repos\yildiz\obj\Debug\netcoreapp3.1\yildiz.pdb
+C:\Users\eray.eray\source\repos\yildiz\obj\Debug\netcoreapp3.1\yildiz.genruntimeconfig.cache
